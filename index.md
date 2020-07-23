@@ -83,7 +83,7 @@ Backend Software Engineer Intern
 **DSTA Cyber Defenders Discovery Camp** 
 - Exposed to and solved a wide range of cybersecurity challenges (OSINT, blind SQL, code golf etc.)
 - Awarded 1st Runner's Up in JC/IP Category
-- Techical domains: knowing how and what to google :)
+- Technical domains: knowing how and what to google :)
 
 `Sep 2018`
 **NYP Singapore Games Creation Competition**
