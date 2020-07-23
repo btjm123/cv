@@ -46,8 +46,8 @@ Backend Server / Database Engineer
 - Technical domains: nodejs, express, mongodb, devops
 
 `Nov 2018 - Dec 2018`
-**Front of House Volunteer**<br>
-Backend Software Engineer Intern
+**SGIFF**<br>
+Front of House Volunteer
 - Provided customer service at information desk
 - Performed administrative tasks, such as ticketing sales and ushering
 - Offered additional stagehand and crowd mangement support
