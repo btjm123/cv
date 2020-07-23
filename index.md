@@ -100,6 +100,8 @@ Backend Software Engineer Intern
 - Technical domains: GML using GMStudio, classical physics/basic artifical intelligence
 
 <div style="page-break-after: always;"></div>
+
+
 ## Personal/School Projects
 
 `2016 - present`
