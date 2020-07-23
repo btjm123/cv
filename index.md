@@ -61,14 +61,14 @@ Backend Software Engineer Intern
 
 `Apr 2020`
 **NUS** National Olympiad in Informatics 
-- Solved a problem utilizing Fenwick Trees (for logarithmic updates and queries) and dynamic programming (to accelerate computation of factorials)
+- Solved a problem utilizing Fenwick Trees (for logarithmic updates and queries) and dynamic programming
 - Obtained partial credit for running Djkistra's algorithm to find single-source shortest path on graph multiple times
 - Highest scorer in VJC and ranked 41st nationwide
 - Technical domain: c++
 
 `Jan 2020`
 **NUS** Hack&Roll Hackathon
-- Spearheaded development of Chrome Extension that offers cross-platform browser-syncing technology from a master PC to several other slave PCs that can be harnessed for educational (teacher to students) or software development (pair/team programming) purposes
+- Spearheaded development of Chrome Extension that offers cross-platform browser-syncing technology from a master PC to several other slave PCs 
 - Pitched and presented idea to industry software engineering experts
 - Technical domains: node.js, express, azureadmin, redis, jQuery, html/css, chrome extension API
 
@@ -76,13 +76,9 @@ Backend Software Engineer Intern
 **Google Developers** YouthHacks Hackathon
 - Designed a powerful Telegram-based artifical intelligence chatbot to offer real-time assistance to local students
 - Interfaced with WolframAlpha API to enable chatbot to intelligently answer homework questions and send periodic reminder
-- Populated the 'brain bank' of the chatbot so that it can alleviate students' stress levels by telling appropriate jokes or playing relaxing music at the right time 
+- Populated the 'brain bank' of the chatbot so that it can alleviate students' stress levels by telling jokes or playing relaxing music
 - Awarded 2nd Runner's Up in the Open Category
 - Technical domains: node.js, express, integration of FireBase/DialowFlow/WolframAlpha/Telegram APIs, json
-
-Achieved 1st runners up in the JC Category
-• Exposed to and solved several types of cybersecurity problems (cryptography, programming,
-OSINT, blind SQL injection etc.)
 
 `Jan 2019`
 **Defence Science Technology Agency (DSTA)** Cyber Defenders Discovery Camp Brainhack 
@@ -99,7 +95,8 @@ OSINT, blind SQL injection etc.)
 `Sep 2017`
 **NYP** Singapore Games Creation Competition
 - Developed a two-stage game composed of a 2D-platformer and a challenging boss level
-- Created a physics engine simulating real-life kinematics/dynamics to form the backbone of the whole game and a basic artifical intelligence system for the final boss stage
+- Created a physics engine simulating real-life kinematics/dynamics to form the backbone of the whole game
+- Created a basic artifical intelligence system for the final boss stage
 - Entered the Finals and eventually awarded the Merit Award
 - Technical domains: GML using GMStudio, classical physics/basic artifical intelligence
 
