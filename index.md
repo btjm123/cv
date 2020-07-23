@@ -41,7 +41,7 @@ Email</a>
 **SGExams**<br>
 Backend Server / Database Engineer
 - Involved in restructing of the backend server from Ruby to Node.js
-- Streamlined database migration workflow from pSQL to a remote MongoDB cluster (Atlas) under a Windows environment
+- Streamlined database migration from pSQL to a remote MongoDB cluster (Atlas) under a Windows environment
 - Coordinated development efforts through Github Devops
 - Technical domains: nodejs, express, mongodb, devops
 
@@ -56,44 +56,43 @@ Backend Software Engineer Intern
 ## Contests
 
 `Jun 2020`
-**Shopee** Code League - Ongoing
+**Shopee Code League - Ongoing**
 - 2-month long contest with 8 challenges, ongoing
 
 `Apr 2020`
-**NUS** National Olympiad in Informatics 
+**NUS National Olympiad in Informatics** 
 - Solved a problem utilizing Fenwick Trees (for logarithmic updates and queries) and dynamic programming
-- Obtained partial credit for running Djkistra's algorithm to find single-source shortest path on graph multiple times
 - Highest scorer in VJC and ranked 41st nationwide
 - Technical domain: c++
 
 `Jan 2020`
-**NUS** Hack&Roll Hackathon
-- Spearheaded development of Chrome Extension that offers cross-platform browser-syncing technology from a master PC to several other slave PCs 
+**NUS Hack&Roll Hackathon**
+- Developed Chrome Extension offering cross-platform browser-syncing technology from a master PC to other slave PCs 
 - Pitched and presented idea to industry software engineering experts
 - Technical domains: node.js, express, azureadmin, redis, jQuery, html/css, chrome extension API
 
 `Nov 2019`
-**Google Developers** YouthHacks Hackathon
+**Google Developers YouthHacks Hackathon**
 - Designed a powerful Telegram-based artifical intelligence chatbot to offer real-time assistance to local students
-- Interfaced with WolframAlpha API to enable chatbot to intelligently answer homework questions and send periodic reminder
-- Populated the 'brain bank' of the chatbot so that it can alleviate students' stress levels by telling jokes or playing relaxing music
+- Interfaced with WolframAlpha API to enable chatbot to intelligently answer homework questions/send periodic reminders
+- Populated the 'brain bank' for the AI to alleviate students' stress levels by telling jokes/playing relaxing music
 - Awarded 2nd Runner's Up in the Open Category
 - Technical domains: node.js, express, integration of FireBase/DialowFlow/WolframAlpha/Telegram APIs, json
 
 `Jan 2019`
-**Defence Science Technology Agency (DSTA)** Cyber Defenders Discovery Camp Brainhack 
-- Exposed to and solved a wide range of cybersecurity challenges (code golf with C, blind SQL injection, nmap, OSINT etc.)
+**DSTA Cyber Defenders Discovery Camp** 
+- Exposed to and solved a wide range of cybersecurity challenges (OSINT, blind SQL, code golf etc.)
 - Awarded 1st Runner's Up in JC/IP Category
 - Techical domains: knowing how and what to google :)
 
 `Sep 2018`
-**NYP** Singapore Games Creation Competition
-- Created a fast-paced, hybrid 2D-platformer/shooting game that raises awareness of the importance of one's physical and mental health
+**NYP Singapore Games Creation Competition**
+- Created a fast-paced, hybrid 2D-platformer/shooting game that raises awareness of the importance of one's health
 - Entered the Finals and eventually awarded Commendation Award
 - Technical domains: GML using GMStudio, classical physics/basic artifical intelligence
 
 `Sep 2017`
-**NYP** Singapore Games Creation Competition
+**NYP Singapore Games Creation Competition**
 - Developed a two-stage game composed of a 2D-platformer and a challenging boss level
 - Created a physics engine simulating real-life kinematics/dynamics to form the backbone of the whole game
 - Created a basic artifical intelligence system for the final boss stage
@@ -101,77 +100,54 @@ Backend Software Engineer Intern
 - Technical domains: GML using GMStudio, classical physics/basic artifical intelligence
 
 <div style="page-break-after: always;"></div>
-## Academic Projects
+## Personal/School Projects
 
-`Aug 2017 - Dec 2017`
-**3.007 Introduction to Design**<br>
-Automatic Anti-Afterimage Glasses 
-- Prototyped eyeglasses that darken in response to incident headlights to prevent afterimages
-- Conducted comprehensive user tests in multiple live environments
-- Project is featured in the university open house and library exhibitions
+`2016 - present`
+**BR Studio - Coding**<br>
+Youtube Channel amassed over 100k views
 
-`Aug 2019 - Dec 2019`
-**40.011 Data and Business Analytics** <br>
-Population Density Prediction for Teralytics
-- Implemented algorithms to predict population density distribution 10 mins in the future
-- Improved the mean squared error by 50% from the baseline
-- Presented the methods and results to the rest of the client's data science team
+- Released extensive online video tutorials on iOS Development with Swift and Xcode
+- Developed comprehensive real-world projects (such as Drawing App) for viewers to follow along
+- Planned to release E-Book but couldn't due to academic/CCA constraints
+- Featured by Rob Percival 
 
-`Aug 2019 - Dec 2019`
-**40.015 Simulation Modelling and Analysis**<br>
-Housing Prices Simulation
+`May 2020 - June 2020`
+**V-Hack**<br>
+Comprises of multiple CCA microservices
 
-- Simulated housing prices with individual agents and houses on a grid
-- Reproduced some characteristics of the housing market such as inflation and homelessness
-- Project video is featured in the end-of-term showcase
+- Developed an internal application (Student InfoSys) to consolidate basic student info and facial recognition technology
+- Developed an online judge that automatically executes and grades code submissions
+- Technologies: node, express, passport, DigitalOcean Server, nginx, SSL
 
-`Aug 2019 - Dec 2019`
-**30.111 Entrepreneurship**<br>
-Belowvol - your private sound zone
-- Developed pretotypes to capture user experience
-- Successfully launched project on Kickstarter
-- Presented the startup in front of a panel of venture capitalists
+`May 2020 - June 2020`
+**go.vjc.sg**<br>
+Link shortener exclusive to VJC
 
-`Feb 2020 - Apr 2020`
-**40.012 Manufacturing and Service Operations**<br>
-Inventory Management for Pharmaforte
-- Modelled demand distribution from product data and employed (Q,r) inventory model
-- Reduced modelled costs by 10%-30% while maintaining acceptable service rate
-- Developed a dashboard to show key visualisations and performance metrics
-- Project writeup is featured in a school biannual newsletter
+- Responsible for future development and maintenance of website
+- Initiated development of front-end (brochure site for V-Hack etc.)
+- Received high approval ratings from student/staff and 15000 clicks to date
+- Technologies: php/mysql stack, yourls framework, html/css/js/jquery
 
-`Feb 2020 - Apr 2020`
-**40.014 Engineering Systems Architecture**<br>
-HealthOrWealth - a card game to teach policymaking
-- Delivered a game to let players experience tradeoffs faced by policymakers in a pandemic
-- Prototyped an RShiny companion to assist the game
-- Explored and documented architectural decisions
+`June 2018`
+**Binomial Theroem Visualizer** <br>
+Personal Project (Unfinished Buggy Prototype)
 
-`Feb 2020 - Apr 2020`
-**02.217 Gender Sexuality and Society**<br>
-Gender difference in professional profile writing
-- Analyse metrics and data of LinkedIn profiles of students of the same admit year
-- Conducted surveys and interviews on professional profile writing preferences
-- Produced and shared the video with the class, earned distinction for the course
+- Developed for classmates who had difficulty understanding Bionomial Theroem
+- Listed terms in binomial expansion of mathematical expressions
+- Technologies: pure html/css/js, serverless
 
 ## Co-curricular activities
 
-`May 2017 - Present`
-**SUTD Robotics Club**<br>
-Committee Member, SAUVC participant
+`Dec 2016 - Dec 2018`
+**Victoria School Infocomm Club**<br>
+Executive Committee (Training & Welfare)
 
-- Facilitated Arduino workshops for more than 100 participants
-- Engineered hydrophones to locate pingers for SAUVC competition
+- Oversee smooth execution of training programmes for CCA junios
+- Ensured the personal welfare and social cohesion of the CCA
 
-## Research Projects
+`July 2019 - present`
+**Victoria Junior College V-Hack**<br>
+Vice-President (Co-founder)
 
-`Dec 2017 - Jul 2018`
-**Fake News Chrome Extension**
-
-- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
-
-`Jan 2018 - Sep 2018`
-**Live Piano Cover Transcription** 
-
-- Generated a dataset of synthesized piano covers and its respective scores for training
-- Developed a machine learning model to transcribe piano covers within two octaves
+- Held ad-hoc programming workshops for the school population
+- Developed innovative software solutions for the school
