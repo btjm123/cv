@@ -27,7 +27,6 @@ Email</a>
 `Jan 2019 - Dec 2020`
 **Victoria Junior College** <br>
 - Current student offering 4H2 content subjects (PCME)
-- >90 percentile
 
 `Jan 2015 - Dec 2018`
 **Victoria School**<br>
