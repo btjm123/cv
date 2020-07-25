@@ -55,14 +55,12 @@ Front of House Volunteer
 ## Contests
 
 `Jun 2020 - July 2020`
-**Shopee Code League - Ongoing**
+**Shopee Code League**
 - Ranked 103th/1044 in Southeast Asia in Programming Contest Section
-- Technical domains: c++, sliding window
 
 `Apr 2020`
 **NUS National Olympiad in Informatics** 
 - Highest scorer in VJC and ranked 41st nationwide (silver medal equivalent)
-- Technical domains: c++, fenwick trees, dynamic programming, graph theory
 
 `Jan 2020`
 **NUS Hack&Roll Hackathon**
