@@ -8,13 +8,13 @@ Final Year Student <br>
 at Victoria Junior College
 
 <div id="webaddress">
-<a href="https://btjm123.github.io/cv/">
+<a href="https://btjm123.github.io/cv/" target='_blank'>
 Resume</a> |
-<a href="https://www.linkedin.com/in/benn-tan-5931091a0/">
+<a href="https://www.linkedin.com/in/benn-tan-5931091a0/" target='_blank'>
 LinkedIn</a> |
-<a href="https://github.com/btjm123/">
+<a href="https://github.com/btjm123/" target='_blank'>
 Github</a> |
-<a href="https://devpost.com/btjm123">
+<a href="https://devpost.com/btjm123" target='_blank'>
 Devpost</a> |
 <a href="mailto:btjm123@gmail.com">
 Email</a>
@@ -32,7 +32,7 @@ Email</a>
 **Victoria School**<br>
 - Integrated Programme (IP)
 - Graduated with GPA 3.6/4.0
-
+ target=''
 
 ## Work Experience
 
@@ -64,13 +64,13 @@ Front of House Volunteer
 
 `Jan 2020`
 **NUS Hack&Roll Hackathon**
-- Developed <a href='https://devpost.com/software/sync-xh1duo'>Chrome Extension</a> offering cross-platform browser-syncing technology from a master PC to other slave PCs 
+- Developed <a href='https://devpost.com/software/sync-xh1duo' target='_blank'>Chrome Extension</a> offering cross-platform browser-syncing technology from a master PC to other slave PCs 
 - Pitched and presented idea to industry software engineering experts
 - Technical domains: node.js, express, azureadmin, redis, jQuery, html/css, chrome extension API
 
 `Nov 2019`
 **Google Developers YouthHacks Hackathon**
-- Designed a powerful Telegram-based artifical intelligence <a href='http://schoolbot.wtf'>chatbot</a> to offer real-time assistance to local students
+- Designed a powerful Telegram-based artifical intelligence <a href='http://schoolbot.wtf' target='_blank'>chatbot</a> to offer real-time assistance to local students
 - Interfaced with WolframAlpha API to enable chatbot to intelligently answer homework questions/send periodic reminders
 - Populated the 'brain bank' for the AI to alleviate students' stress levels by telling jokes/playing relaxing music
 - Awarded 2nd Runner's Up in the Open Category
@@ -84,13 +84,13 @@ Front of House Volunteer
 
 `Sep 2018`
 **NYP Singapore Games Creation Competition**
-- Created a <a href="https://sidm.nyp.edu.sg/sgcc/Games/SGCC2018/entries/team_1239F/sgcc2018playF.html">fast-paced, hybrid 2D-platformer/shooting game</a> that raises awareness of the importance of one's health
+- Created a <a href="https://sidm.nyp.edu.sg/sgcc/Games/SGCC2018/entries/team_1239F/sgcc2018playF.html" target='_blank'>fast-paced, hybrid 2D-platformer/shooting game</a> that raises awareness of the importance of one's health
 - Entered the Finals and eventually awarded Commendation Award
 - Technical domains: GML using GMStudio, classical physics/basic artifical intelligence
 
 `Sep 2017`
 **NYP Singapore Games Creation Competition**
-- Developed a <a href="https://btjm123.github.io">two-stage game</a> composed of a 2D-platformer and a challenging boss level
+- Developed a <a href="https://btjm123.github.io" target='_blank'>two-stage game</a> composed of a 2D-platformer and a challenging boss level
 - Created a physics engine simulating real-life kinematics/dynamics to form the backbone of the whole game
 - Created a basic artifical intelligence system for the final boss stage
 - Entered the Finals and eventually awarded the Merit Award
@@ -103,11 +103,11 @@ Front of House Volunteer
 
 `2016 - present`
 **BR Studio - Coding**<br>
-<a href="https://www.youtube.com/channel/UClmRwdRb2PC6D3gJM-fpYUw">Youtube Channel</a> amassed over 100k views
+<a href="https://www.youtube.com/channel/UClmRwdRb2PC6D3gJM-fpYUw" target='_blank'>Youtube Channel</a> amassed over 100k views
 
 - Released extensive online video tutorials on iOS Development with Swift and Xcode
 - Developed comprehensive real-world projects (such as Drawing App) for viewers to follow along
-- Planned to release <a href="https://docs.google.com/document/d/1_uN3QE732WXTqGF6SbGq2TuMqXhexH3q5CchA6y4Q2c/edit?usp=sharing">E-Book</a> but couldn't due to academic/CCA constraints
+- Planned to release <a href="https://docs.google.com/document/d/1_uN3QE732WXTqGF6SbGq2TuMqXhexH3q5CchA6y4Q2c/edit?usp=sharing" target='_blank'>E-Book</a> but couldn't due to academic/CCA constraints
 - Featured by Rob Percival 
 
 `May 2020 - June 2020`
@@ -115,12 +115,12 @@ Front of House Volunteer
 Comprises of multiple CCA microservices
 
 - Developed an internal application (Student InfoSys) to consolidate basic student info and facial recognition technology
-- Developed an <a href='https://vhack.ninja/onlinejudge'>online judge</a> that automatically executes and grades code submissions
+- Developed an <a href='https://thevhack.ninja/onlinejudge' target=''>online judge</a> that automatically executes and grades code submissions
 - Technologies: node, express, passport, DigitalOcean Server, nginx, SSL
 
 `May 2020 - June 2020`
 **go.vjc.sg**<br>
-<a href="https://go.vjc.sg">Link shortener</a> exclusive to VJC
+<a href="https://go.vjc.sg" target='_blank'>Link shortener</a> exclusive to VJC
 
 - Responsible for future development and maintenance of website
 - Initiated development of front-end (brochure site for V-Hack etc.)
@@ -129,7 +129,7 @@ Comprises of multiple CCA microservices
 
 `June 2018`
 **Binomial Theroem Visualizer**<br>
-<a href="https://btjm123.github.io/binomial/">Personal Project</a> (Unfinished Buggy Prototype)
+<a href="https://btjm123.github.io/binomial/" target='_blank'>Personal Project</a> (Unfinished Buggy Prototype)
 
 - Developed for classmates who had difficulty understanding Bionomial Theroem
 - Listed terms in binomial expansion of mathematical expressions
@@ -145,14 +145,14 @@ Executive Committee (Training & Welfare)
 - Ensured the personal welfare and social cohesion of the CCA
 
 `July 2019 - present`
-<a href='go.vjc.sg/about'>**Victoria Junior College V-Hack**</a><br>
+<a href='https://go.vjc.sg/about' target='_blank'>**Victoria Junior College V-Hack**</a><br>
 Vice-President (Co-founder)
 
 - Held ad-hoc programming workshops for the school population
 - Developed innovative software solutions for the school
 
 `Apr 2020 - present`
-<a href="https://access2victoria.com/">**Victoria Junior College Access Victoria**</a><br>
+<a href="https://access2victoria.com/" target='_blank'>**Victoria Junior College Access Victoria**</a><br>
 Subject Mentor and Coordinator (Chemistry) and Operations Department
 
 - Mentored several students on Chemistry through online platforms
