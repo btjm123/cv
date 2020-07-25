@@ -64,13 +64,13 @@ Front of House Volunteer
 
 `Jan 2020`
 **NUS Hack&Roll Hackathon**
-- Developed Chrome Extension offering cross-platform browser-syncing technology from a master PC to other slave PCs 
+- Developed <a href='https://devpost.com/software/sync-xh1duo'>Chrome Extension</a> offering cross-platform browser-syncing technology from a master PC to other slave PCs 
 - Pitched and presented idea to industry software engineering experts
 - Technical domains: node.js, express, azureadmin, redis, jQuery, html/css, chrome extension API
 
 `Nov 2019`
 **Google Developers YouthHacks Hackathon**
-- Designed a powerful Telegram-based artifical intelligence chatbot to offer real-time assistance to local students
+- Designed a powerful Telegram-based artifical intelligence <a href='http://schoolbot.wtf'>chatbot</a> to offer real-time assistance to local students
 - Interfaced with WolframAlpha API to enable chatbot to intelligently answer homework questions/send periodic reminders
 - Populated the 'brain bank' for the AI to alleviate students' stress levels by telling jokes/playing relaxing music
 - Awarded 2nd Runner's Up in the Open Category
@@ -84,13 +84,13 @@ Front of House Volunteer
 
 `Sep 2018`
 **NYP Singapore Games Creation Competition**
-- Created a fast-paced, hybrid 2D-platformer/shooting game that raises awareness of the importance of one's health
+- Created a <a href="https://sidm.nyp.edu.sg/sgcc/Games/SGCC2018/entries/team_1239F/sgcc2018playF.html">fast-paced, hybrid 2D-platformer/shooting game</a> that raises awareness of the importance of one's health
 - Entered the Finals and eventually awarded Commendation Award
 - Technical domains: GML using GMStudio, classical physics/basic artifical intelligence
 
 `Sep 2017`
 **NYP Singapore Games Creation Competition**
-- Developed a two-stage game composed of a 2D-platformer and a challenging boss level
+- Developed a <a href="https://btjm123.github.io">two-stage game</a> composed of a 2D-platformer and a challenging boss level
 - Created a physics engine simulating real-life kinematics/dynamics to form the backbone of the whole game
 - Created a basic artifical intelligence system for the final boss stage
 - Entered the Finals and eventually awarded the Merit Award
@@ -102,8 +102,8 @@ Front of House Volunteer
 ## Personal/School Projects
 
 `2016 - present`
-<a href="https://www.youtube.com/channel/UClmRwdRb2PC6D3gJM-fpYUw">**BR Studio - Coding**</a><br>
-Youtube Channel amassed over 100k views
+**BR Studio - Coding**<br>
+<a href="https://www.youtube.com/channel/UClmRwdRb2PC6D3gJM-fpYUw">Youtube Channel</a> amassed over 100k views
 
 - Released extensive online video tutorials on iOS Development with Swift and Xcode
 - Developed comprehensive real-world projects (such as Drawing App) for viewers to follow along
@@ -111,16 +111,16 @@ Youtube Channel amassed over 100k views
 - Featured by Rob Percival 
 
 `May 2020 - June 2020`
-<a href="https://go.vjc.sg/about">**V-Hack**</a><br>
+**V-Hack**<br>
 Comprises of multiple CCA microservices
 
 - Developed an internal application (Student InfoSys) to consolidate basic student info and facial recognition technology
-- Developed an online judge that automatically executes and grades code submissions
+- Developed an <a href='https://vhack.ninja/onlinejudge'>online judge</a> that automatically executes and grades code submissions
 - Technologies: node, express, passport, DigitalOcean Server, nginx, SSL
 
 `May 2020 - June 2020`
-<a href="https://go.vjc.sg">**go.vjc.sg**</a><br>
-Link shortener exclusive to VJC
+**go.vjc.sg**<br>
+<a href="https://go.vjc.sg">Link shortener</a> exclusive to VJC
 
 - Responsible for future development and maintenance of website
 - Initiated development of front-end (brochure site for V-Hack etc.)
@@ -128,8 +128,8 @@ Link shortener exclusive to VJC
 - Technologies: php/mysql stack, yourls framework, html/css/js/jquery
 
 `June 2018`
-<a href="https://btjm123.github.io/binomial/">**Binomial Theroem Visualizer**</a><br>
-Personal Project (Unfinished Buggy Prototype)
+**Binomial Theroem Visualizer**<br>
+<a href="https://btjm123.github.io/binomial/">Personal Project</a> (Unfinished Buggy Prototype)
 
 - Developed for classmates who had difficulty understanding Bionomial Theroem
 - Listed terms in binomial expansion of mathematical expressions
@@ -145,7 +145,7 @@ Executive Committee (Training & Welfare)
 - Ensured the personal welfare and social cohesion of the CCA
 
 `July 2019 - present`
-**Victoria Junior College V-Hack**<br>
+<a href='go.vjc.sg/about'>**Victoria Junior College V-Hack**</a><br>
 Vice-President (Co-founder)
 
 - Held ad-hoc programming workshops for the school population
