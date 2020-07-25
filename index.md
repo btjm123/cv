@@ -102,16 +102,16 @@ Front of House Volunteer
 ## Personal/School Projects
 
 `2016 - present`
-**BR Studio - Coding**<br>
+<a href="https://www.youtube.com/channel/UClmRwdRb2PC6D3gJM-fpYUw">**BR Studio - Coding**</a><br>
 Youtube Channel amassed over 100k views
 
 - Released extensive online video tutorials on iOS Development with Swift and Xcode
 - Developed comprehensive real-world projects (such as Drawing App) for viewers to follow along
-- Planned to release E-Book but couldn't due to academic/CCA constraints
+- Planned to release <a href="https://docs.google.com/document/d/1_uN3QE732WXTqGF6SbGq2TuMqXhexH3q5CchA6y4Q2c/edit?usp=sharing">E-Book</a> but couldn't due to academic/CCA constraints
 - Featured by Rob Percival 
 
 `May 2020 - June 2020`
-**V-Hack**<br>
+<a href="https://go.vjc.sg/about">**V-Hack**</a><br>
 Comprises of multiple CCA microservices
 
 - Developed an internal application (Student InfoSys) to consolidate basic student info and facial recognition technology
@@ -119,7 +119,7 @@ Comprises of multiple CCA microservices
 - Technologies: node, express, passport, DigitalOcean Server, nginx, SSL
 
 `May 2020 - June 2020`
-**go.vjc.sg**<br>
+<a href="https://go.vjc.sg">**go.vjc.sg**</a><br>
 Link shortener exclusive to VJC
 
 - Responsible for future development and maintenance of website
@@ -128,7 +128,7 @@ Link shortener exclusive to VJC
 - Technologies: php/mysql stack, yourls framework, html/css/js/jquery
 
 `June 2018`
-**Binomial Theroem Visualizer** <br>
+<a href="https://btjm123.github.io/binomial/">**Binomial Theroem Visualizer**</a><br>
 Personal Project (Unfinished Buggy Prototype)
 
 - Developed for classmates who had difficulty understanding Bionomial Theroem
@@ -152,7 +152,7 @@ Vice-President (Co-founder)
 - Developed innovative software solutions for the school
 
 `Apr 2020 - present`
-**Victoria Junior College Access Victoria**<br>
+<a href="https://access2victoria.com/">**Victoria Junior College Access Victoria**</a><br>
 Subject Mentor and Coordinator (Chemistry) and Operations Department
 
 - Mentored several students on Chemistry through online platforms
