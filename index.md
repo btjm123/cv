@@ -115,7 +115,7 @@ Front of House Volunteer
 Comprises of multiple CCA microservices
 
 - Developed an internal application (Student InfoSys) to consolidate basic student info and facial recognition technology
-- Developed an <a href='https://thevhack.ninja/onlinejudge' target=''>online judge</a> that automatically executes and grades code submissions
+- Developed an <a href='https://thevhack.ninja/onlinejudge' target='_blank'>online judge</a> that automatically executes and grades code submissions
 - Technologies: node, express, passport, DigitalOcean Server, nginx, SSL
 
 `May 2020 - June 2020`
