@@ -32,7 +32,7 @@ Email</a>
 **Victoria School**<br>
 - Integrated Programme (IP)
 - Graduated with GPA 3.6/4.0
- target=''
+
 
 ## Work Experience
 
