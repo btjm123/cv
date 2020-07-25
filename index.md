@@ -60,7 +60,7 @@ Front of House Volunteer
 
 `Apr 2020`
 **NUS National Olympiad in Informatics** 
-- Highest scorer in VJC and ranked 41st nationwide (silver medal equivalent)
+- Highest scorer in VJC and ranked 41st nationwide (silver medal)
 
 `Jan 2020`
 **NUS Hack&Roll Hackathon**
@@ -150,3 +150,11 @@ Vice-President (Co-founder)
 
 - Held ad-hoc programming workshops for the school population
 - Developed innovative software solutions for the school
+
+`Apr 2020 - present`
+**Victoria Junior College Access Victoria**<br>
+Subject Mentor and Coordinator (Chemistry) and Operations Department
+
+- Mentored several students on Chemistry through online platforms
+- Oversee all other Chemistry mentors and mentees in this programme
+- Automated transfer of high volume of sign-ups using DOM scripting (jQuery) and node.js
