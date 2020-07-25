@@ -16,7 +16,7 @@ LinkedIn</a> |
 Github</a> |
 <a href="https://devpost.com/btjm123" target='_blank'>
 Devpost</a> |
-<a href="mailto:btjm123@gmail.com">
+<a href="mailto:btjm123@gmail.com" target='_blank'>
 Email</a>
 </div>
 
